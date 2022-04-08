@@ -1,5 +1,9 @@
 
 This is just a real-time chat logger, where you can have all chats in one place.
+
+## Setup
+  - insert your token to the "token.txt" file, located in data folder
+  - turn it on
   
 ## Used libraries
   - websocket
