@@ -4,19 +4,19 @@ This is just a real-time chat logger, where you can have all chats in one place.
   
 ============
 ## Used libraries
-- websocket
-- json
-- threading
-- time
-- requests
-- colorama
-- emoji
-- os
+  - websocket
+  - json
+  - threading
+  - time
+  - requests
+  - colorama
+  - emoji
+  - os
   
 ============
 ## Features
-- logging messages to a txt file and printing them to console
-- yes, it only does that
+  - logging messages to a txt file and printing them to console
+  - yes, it only does that
 
 ### Working Versions
 
