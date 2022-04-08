@@ -1,7 +1,6 @@
 
 This is just a real-time chat logger, where you can have all chats in one place.
   
-============
 ## Used libraries
   - websocket
   - json
