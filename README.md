@@ -13,7 +13,6 @@ This is just a real-time chat logger, where you can have all chats in one place.
   - emoji
   - os
   
-============
 ## Features
   - logging messages to a txt file and printing them to console
   - yes, it only does that
