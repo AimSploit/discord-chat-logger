@@ -15,6 +15,7 @@ This is just a real-time chat logger, where you can have all chats in one place.
   - colorama
   - emoji
   - os
+  - unidecode
   
 ## Features
   - logging messages to a txt file and printing them to console (txt will be located in data folder)
